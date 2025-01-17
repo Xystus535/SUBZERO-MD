@@ -27,7 +27,7 @@ SESSION_ID: process.env.SESSION_ID || "enter your subzero md session id here",
 PREFIX: process.env.PREFIX || ".",
 // Enter Your Desired Prefix
 
-BOT_NAME: process.env.BOT_NAME || "『 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 』",
+BOT_NAME: process.env.BOT_NAME || "『 XTRA SHEET 』",
 // Enter Your Bot Name
 
 ANTI_VV: process.env.ANTI_VV || "true",
@@ -42,13 +42,13 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "263719647303",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "233208582234",
 // Set Owner Name
 
-OWNER_NAME: process.env.OWNER_NAME || "ᴍʀ ꜰʀᴀɴᴋ ᴏꜰᴄ",
+OWNER_NAME: process.env.OWNER_NAME || "XTRA SHEET",
 // Set Footer
 
-DESCRIPTION: process.env.DESCRIPTION || "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sᴜʙᴢᴇʀᴏ*",
+DESCRIPTION: process.env.DESCRIPTION || "*XYSTUS EMPIRE*",
 // add bot owner name   
  
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/YkJyMRb/mrfrankofc.jpg",
@@ -72,7 +72,7 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*[❄️] Hi there, SUBZERO-MD viewed your Status🎐*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*[❄️] Hi there, XTRA SHEET viewed your Status🎐*",
 
 // set the auto reply massage on status reply    
 MODE: process.env.MODE || "public",
